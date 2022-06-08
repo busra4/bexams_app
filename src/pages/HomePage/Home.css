@@ -1,0 +1,33 @@
+.img-main {
+  align-items: center;
+  margin-left: 30vh;
+  margin-top: 8vh;
+}
+.box-main {
+  align-items: center;
+  margin-left: 40vh;
+  margin-top: 8vh;
+  color: #ade8f4;
+  background-color: #a2d2ff;
+  width: 125vh;
+  height: 50vh;
+  border-radius: 15px;
+}
+
+.label-main {
+  align-items: center;
+  margin-left: 8vh;
+  padding-top: 18vh;
+  color: rgb(47, 7, 111);
+  background-color: #d6000000;
+  width: 120vh;
+  height: 50vh;
+  border-radius: 15px;
+}
+
+.btn-main{
+background-color: aqua;
+}
+.logout{
+  margin-left: 19%;
+}

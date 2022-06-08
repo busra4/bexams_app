@@ -1,0 +1,64 @@
+.Quiz {
+    text-align: center;
+    background-color:#8b8c89;
+  
+  }
+  
+  
+  button  {
+    background-color: #4e148c; 
+    border: none;
+    color: white;
+    margin-left:90%;
+    padding: 2px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 25px;
+    border-radius: 12px;
+    align-items: center; 
+    width: 60%; 
+    height: 50px;
+    
+  }
+  
+  .btn:hover {
+    opacity: 0.6;
+    background: palegreen;
+    transform: scale(1.4);
+    transition-duration: 0.5s;
+    
+  }
+  
+  ul {
+    list-style:inside;
+    color: 'black';
+  }
+  
+  li {
+  margin-left: 22%;
+    align-items: center;
+    margin-top: 8px;
+    background-color: #4e148c;
+    padding: 16px;
+    border: 3px solid rgba(0, 0, 0, 0);
+    border-radius: 20px;
+    font-size: 14px;
+    width: 50%;
+    height: auto;
+    
+  }
+  
+  li:hover{
+    opacity: 0.6;
+    transition-duration: 0.5s;
+    background: palegreen;
+    transform: scale(1.4);
+  }
+  
+ .questions-main{
+   background-color: antiquewhite;
+ }
+
